@@ -1,0 +1,8 @@
+MIDlet-1: SorterMidlet, ,ru.andreysolovyov.j2me.meSorter.SorterMidlet
+MIDlet-Jar-Size: 19236
+MIDlet-Jar-URL: meSorter.jar
+MIDlet-Name: meSorter
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
